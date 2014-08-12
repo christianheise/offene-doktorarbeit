@@ -1,1 +1,0 @@
-\subsection{Open Access Modelle}
