@@ -1,0 +1,8 @@
+ @article{cite:0,
+  author = {Q. Tate and L. Garcia and G. Banach},
+  title = {Regularity Methods in Fuzzy Number Theory},
+  journal = {{A}rchives of the {M}oldovan {M}athematical {S}ociety},
+  month = aug,
+  year = 1995,
+  volume = 0,
+  pages = {78--93}}
