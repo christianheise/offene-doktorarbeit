@@ -20,3 +20,4 @@ Wissenschaftliche Diskurse, nach dem Diskurs- und Machtbegriff.tex
 Kritik.tex
 Forschungsstand.tex
 Beschreibung des Forschungsstands.tex
+Defizite.tex
