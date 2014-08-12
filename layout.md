@@ -25,4 +25,3 @@ Entwicklung der Fragestellung.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
 Forschungsfragen.tex
-Erhebungsmethode und Umfang.tex
