@@ -3,7 +3,6 @@ Einleitung.tex
 Definition und Abgrenzung.tex
 Open Access.tex
 Open Science.tex
-Offener Zugriff auf Wissenschaft.tex
 Wissenschaft als Open Source Prozess.tex
 Entwicklung der Bewegung.tex
 Open Science Modelle.tex
