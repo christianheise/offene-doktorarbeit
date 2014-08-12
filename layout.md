@@ -10,3 +10,4 @@ Methode der Inhaltsanalyse.tex
 Methode der Onlinebefragung.tex
 Ergebnisse.tex
 Ergebnisse subs.tex
+Argumente.tex
