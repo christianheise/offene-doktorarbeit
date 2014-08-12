@@ -17,3 +17,4 @@ Wissenschaftliches Kapital.tex
 Die Oekonomie des wissenschaftlichen Kommunizierens.tex
 Messbarkeit wissenschaftlicher Quali vs. Publikationsquanti.tex
 Wissenschaftliche Diskurse, nach dem Diskurs- und Machtbegriff.tex
+Kritik.tex
