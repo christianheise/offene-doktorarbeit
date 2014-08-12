@@ -1,3 +1,0 @@
-\subsection{Definition von Open Access und Open Science}
-\subsection{Open Access}
-\subsection{Open Science}

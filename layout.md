@@ -9,4 +9,3 @@ Methodik.tex
 Methode der Inhaltsanalyse.tex
 Methode der Onlinebefragung.tex
 Ergebnisse.tex
-Ergebnisse subs.md
