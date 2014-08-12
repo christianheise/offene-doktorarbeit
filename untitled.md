@@ -1,1 +1,1 @@
-_Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Insert** button below to add new block elements. Or you can **drag and drop an image** right onto this text!
+Eine praxistheoretische Studie zum Verständnis der Konzepte vor dem Hintergrund der Differenzierung zwischen verschiedenen wissenschaftlichen Disziplinen und dem anstehenden Paradigmenwechsel bei der Betrachtung der wissenschaftlichen Kommunikation und Reputation.
