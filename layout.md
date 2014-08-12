@@ -11,3 +11,4 @@ Methode der Onlinebefragung.tex
 Ergebnisse.tex
 Ergebnisse subs.tex
 Argumente.tex
+Ergebnisse subs2.tex
