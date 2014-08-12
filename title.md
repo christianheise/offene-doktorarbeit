@@ -1,1 +1,1 @@
-Double click to edit the title
+Von Open Access zu Open Science: Ein Paradigmenwechsel in der wissenschaftlichen Kommunikation
