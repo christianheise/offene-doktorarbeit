@@ -1,4 +1,3 @@
-Abstract.md
 Abstract.tex
 Einleitung.tex
 Definition und Abgrenzung.tex
