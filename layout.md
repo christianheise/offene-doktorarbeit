@@ -12,4 +12,5 @@ Ergebnisse.tex
 Ergebnisse subs.tex
 Argumente.tex
 Ergebnisse subs2.tex
+Einfluss  auf die wissenschaftliche Kommunikation und Reputation.tex
 Diskussion.tex
