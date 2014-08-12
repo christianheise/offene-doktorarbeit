@@ -13,7 +13,6 @@ Entwicklung der Bewegung.tex
 Open Science Modelle.tex
 Open Science Formate.tex
 Wissenschaftliche Reputation.tex
-Wissenschaftliches Kapital.tex
 Forschungsstand.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
