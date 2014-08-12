@@ -3,7 +3,6 @@ Einleitung.tex
 Definition und Abgrenzung.tex
 Open Access.tex
 Open Science.tex
-Open Science Modelle.tex
 Open Science Formate.tex
 Wissenschaftliche Reputation.tex
 Forschungsstand.tex
