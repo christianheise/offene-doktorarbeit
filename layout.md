@@ -6,3 +6,4 @@ Offener Zugang zu Wissenschaft.tex
 Chronologie der Bewegung.tex
 Open Access Modelle.tex
 Open Access Formate.tex
+Open Science.tex
