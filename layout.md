@@ -16,7 +16,6 @@ Wissenschaftliche Reputation.tex
 Wissenschaftliches Kapital.tex
 Die Oekonomie des wissenschaftlichen Kommunizierens.tex
 Messbarkeit wissenschaftlicher Quali vs. Publikationsquanti.tex
-Wissenschaftliche Diskurse, nach dem Diskurs- und Machtbegriff.tex
 Forschungsstand.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
