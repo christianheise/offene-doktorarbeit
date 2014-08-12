@@ -9,3 +9,4 @@ Open Access Formate.tex
 Open Science.tex
 Offener Zugriff auf Wissenschaft.tex
 Wissenschaft als Open Source Prozess.tex
+Entwicklung der Bewegung.md
