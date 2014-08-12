@@ -24,3 +24,4 @@ Defizite.tex
 Entwicklung der Fragestellung.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
+Methode der Onlinebefragung.tex
