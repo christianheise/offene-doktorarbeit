@@ -19,7 +19,6 @@ Messbarkeit wissenschaftlicher Quali vs. Publikationsquanti.tex
 Wissenschaftliche Diskurse, nach dem Diskurs- und Machtbegriff.tex
 Kritik.tex
 Forschungsstand.tex
-Entwicklung der Fragestellung.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
 Methode der Onlinebefragung.tex
