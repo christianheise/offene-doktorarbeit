@@ -23,3 +23,4 @@ Beschreibung des Forschungsstands.tex
 Defizite.tex
 Entwicklung der Fragestellung.tex
 Methodik.tex
+Methode der Inhaltsanalyse.tex
