@@ -15,3 +15,4 @@ Open Science Formate.tex
 Wissenschaftliche Reputation.tex
 Wissenschaftliches Kapital.tex
 Die Oekonomie des wissenschaftlichen Kommunizierens.tex
+Messbarkeit wissenschaftlicher Quali vs. Publikationsquanti.tex
