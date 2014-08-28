@@ -4,6 +4,7 @@ Definition und Abgrenzung.tex
 Open Access Einleitung.tex
 Open Access.tex
 OA_Chronologie.tex
+OA_Modelle.tex
 Open Science.tex
 Wissenschaftliche Reputation.tex
 Forschungsstand.tex
