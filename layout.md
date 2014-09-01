@@ -12,6 +12,7 @@ Forschungsstand.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
 Kritik_Meinungen_OA.tex
+Analyse_Definition_OS.tex
 Methode der Onlinebefragung.tex
 Ergebnisse.tex
 Ergebnisse subs.tex
