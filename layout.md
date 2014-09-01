@@ -6,7 +6,6 @@ Open Access.tex
 OA_Chronologie.tex
 OA_Modelle.tex
 OA_formats_and_chanels.tex
-Stakeholder_OA.tex
 Open Science.tex
 Wissenschaftliche Reputation.tex
 Forschungsstand.tex
