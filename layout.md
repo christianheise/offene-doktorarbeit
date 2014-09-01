@@ -11,6 +11,7 @@ Wissenschaftliche Reputation.tex
 Forschungsstand.tex
 Methodik.tex
 Methode der Inhaltsanalyse.tex
+Kritik_Meinungen_OA.tex
 Methode der Onlinebefragung.tex
 Ergebnisse.tex
 Ergebnisse subs.tex
