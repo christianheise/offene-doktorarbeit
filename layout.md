@@ -1,7 +1,6 @@
 Abstract.tex
 Einleitung.tex
 Definition und Abgrenzung.tex
-Open Access Einleitung.tex
 Open Access.tex
 OA_Chronologie.tex
 OA_Modelle.tex
