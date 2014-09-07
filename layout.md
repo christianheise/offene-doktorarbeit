@@ -15,6 +15,7 @@ Analyse_Treiber_und_Bremser_OA.tex
 Kritik_Meinungen_OA.tex
 Analyse_Definition_OS.tex
 Methode der Onlinebefragung.tex
+Methode des Experimentellen.tex
 Ergebnisse.tex
 Ergebnisse subs.tex
 Argumente.tex
