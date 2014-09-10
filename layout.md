@@ -1,6 +1,5 @@
 Abstract.tex
 Einleitung.tex
-Aufbau.tex
 Bezugsrahmen.tex
 Relevanz.tex
 Definition und Abgrenzung.tex
