@@ -9,7 +9,6 @@ Open Science.tex
 Wissenschaftliche Reputation.tex
 Forschungsstand.tex
 Methodik.tex
-Methode der Inhaltsanalyse.tex
 Analyse_Treiber_und_Bremser_OA.tex
 Kritik_Meinungen_OA.tex
 Analyse_Definition_OS.tex
