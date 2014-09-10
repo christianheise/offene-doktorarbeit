@@ -1,6 +1,5 @@
 Abstract.tex
 Einleitung.tex
-Bezugsrahmen.tex
 Definition und Abgrenzung.tex
 Open Access.tex
 OA_Chronologie.tex
