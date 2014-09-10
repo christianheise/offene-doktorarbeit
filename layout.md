@@ -10,7 +10,6 @@ Wissenschaftliche Reputation.tex
 Forschungsstand.tex
 Methodik.tex
 Analyse_Treiber_und_Bremser_OA.tex
-Analyse_Definition_OS.tex
 Methode der Onlinebefragung.tex
 Methode des Experimentellen.tex
 Ergebnisse.tex
