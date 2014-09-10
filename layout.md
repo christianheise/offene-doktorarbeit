@@ -1,4 +1,5 @@
 Abstract.tex
+TOC.tex
 Einleitung.tex
 Definition und Abgrenzung.tex
 Forschungsstand.tex
