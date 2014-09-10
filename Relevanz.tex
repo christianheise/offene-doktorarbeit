@@ -1,1 +1,0 @@
-\section{Relevanz des Themas} 
