@@ -10,7 +10,6 @@ Wissenschaftliche Reputation.tex
 Forschungsstand.tex
 Methodik.tex
 Ergebnisse.tex
-Argumente.tex
 Ergebnisse subs2.tex
 Einfluss  auf die wissenschaftliche Kommunikation und Reputation.tex
 Diskussion.tex
