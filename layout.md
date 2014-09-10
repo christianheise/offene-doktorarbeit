@@ -9,7 +9,6 @@ Open Science.tex
 Wissenschaftliche Reputation.tex
 Forschungsstand.tex
 Methodik.tex
-Methode der Onlinebefragung.tex
 Methode des Experimentellen.tex
 Ergebnisse.tex
 Ergebnisse subs.tex
