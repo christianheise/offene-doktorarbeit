@@ -2,6 +2,7 @@ Abstract.tex
 Einleitung.tex
 Aufbau.tex
 Bezugsrahmen.tex
+Relevanz.md
 Definition und Abgrenzung.tex
 Open Access.tex
 OA_Chronologie.tex
