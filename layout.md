@@ -5,5 +5,5 @@ Methodik.tex
 Analyse des Forschungstandes.tex
 Empirische Untersuchung.tex
 Experimentelle Untersuchung.tex
-Diskussion.tex
+Diskussion des Vorgehens.tex
 Resuemee und Ausblick.tex
