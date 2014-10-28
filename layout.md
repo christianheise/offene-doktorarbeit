@@ -2,6 +2,6 @@ Abstract.tex
 Einleitung.tex
 Definition und Abgrenzung.tex
 Forschungsstand.tex
-Methodik.tex
+Empirie.tex
 Ergebnisse.tex
 Diskussion.tex
