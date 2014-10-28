@@ -1,7 +1,7 @@
 Abstract.tex
 Einleitung.tex
 Theorie, Definition und Abgrenzung.tex
-Methodik.tex
+Methodische Grundlagen.tex
 Analyse des Forschungstandes.tex
 Empirische Untersuchung.tex
 Experimentelle Untersuchung.tex
