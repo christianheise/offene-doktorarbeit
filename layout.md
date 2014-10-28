@@ -1,6 +1,6 @@
 Abstract.tex
 Einleitung.tex
 Definition und Abgrenzung.tex
-Empirie.tex
+Empierische Analyse.tex
 Ergebnisse.tex
 Diskussion.tex
