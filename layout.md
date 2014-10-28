@@ -1,5 +1,6 @@
 Abstract.tex
 Einleitung.tex
+Methodik.tex
 Theorie, Definition und Abgrenzung.tex
 Analyse des Forschungstands.tex
 Empirische Analyse.tex
