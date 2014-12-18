@@ -1,6 +1,6 @@
 Abstract.tex
 Einleitung.tex
-Definition und Abgrenzung.tex
+Grundlage, Definitionen und Abgrenzung.tex
 Methodik und Vorgehen.tex
 Literaturanalyse.tex
 Empirische Untersuchung.tex
