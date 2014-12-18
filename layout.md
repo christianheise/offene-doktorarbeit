@@ -6,4 +6,4 @@ Literaturanalyse.tex
 Empirische Untersuchung.tex
 Experimentelle Untersuchung.tex
 Diskussion und Schlussfolgerungen.tex
-Resuemee und Ausblick.tex
+Zusammenfassung und Ausblick.tex
