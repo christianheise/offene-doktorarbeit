@@ -1,1 +1,1 @@
-Von Open Access zu Open Science: Ein Paradigmenwechsel in der wissenschaftlichen Kommunikation?
+Von Open Access zu Open Science: Zum Wandel der wissenschaftliche Kommunikation im Rahmen der Digitalisierung
