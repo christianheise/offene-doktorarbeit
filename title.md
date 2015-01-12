@@ -1,1 +1,1 @@
-Von Open Access zu Open Science: Zum Wandel der wissenschaftliche Kommunikation im Rahmen der Digitalisierung
+Von Open Access zu Open Science: Zum Wandel der wissenschaftlichen Kommunikation im Rahmen der Digitalisierung
