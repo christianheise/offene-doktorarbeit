@@ -3,7 +3,7 @@ Einleitung.tex
 Grundlage, Definitionen und Abgrenzung.tex
 Methodik und Vorgehen.tex
 Literaturanalyse.tex
-Empirische Untersuchung.tex
+Befragung.tex
 Experiment.tex
 Diskussion.tex
 Zusammenfassung und Ausblick.tex
