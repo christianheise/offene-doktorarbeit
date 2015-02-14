@@ -1,7 +1,7 @@
 Abstract.tex
 Einleitung.tex
 Grundlage, Definitionen und Abgrenzung.tex
-Methodik und Vorgehen.tex
+Methode.tex
 Inhaltsanalyse.tex
 Befragung.tex
 Experiment.tex
