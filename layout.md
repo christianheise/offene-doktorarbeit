@@ -4,6 +4,6 @@ Grundlage, Definitionen und Abgrenzung.tex
 Methodik und Vorgehen.tex
 Literaturanalyse.tex
 Empirische Untersuchung.tex
-Experimentelle Untersuchung.tex
+Experiment.tex
 Diskussion.tex
 Zusammenfassung und Ausblick.tex
