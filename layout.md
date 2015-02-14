@@ -5,5 +5,5 @@ Methodik und Vorgehen.tex
 Literaturanalyse.tex
 Empirische Untersuchung.tex
 Experimentelle Untersuchung.tex
-Diskussion und Schlussfolgerungen.tex
+Diskussion.tex
 Zusammenfassung und Ausblick.tex
