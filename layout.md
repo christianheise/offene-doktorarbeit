@@ -1,6 +1,6 @@
 Abstract.tex
 Einleitung.tex
-Grundlage, Definitionen und Abgrenzung.tex
+Grundlagen.tex
 Methode.tex
 Inhaltsanalyse.tex
 Befragung.tex
