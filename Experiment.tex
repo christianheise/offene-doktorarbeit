@@ -6,13 +6,30 @@ Um vor allem die Kriterien und Argumente (zum Beispiel Auwand) für oder gegen d
 
 Konzeptionell war das Projekt so angelegt, dass die Arbeit unter allen Umständen jederzeit frei und offen Verfügbar einsehbar sein sollte. Inital sollte ein Blog auf der Grundlage der verbreiteten Open Source-Lösung Wordpress zum Einsatz kommen und nicht nur die Dokumentation rund um die Arbeit, sondern auch als technische Plattform für die gesamte Arbeit selbst zur Verfügung stehen.
 
+Nach der schriftlichen Erlaubnis durch die Promotionskommission vom 11. Dezember 2013, wurde in einem ersten Schritt das Google Dokument offen zur Verfügung gestellt beziehungsweise für jeden lesbar freigegeben und aus dem Blog verlinkt. Vor der Erstellung der Arbeit wurden unterschiedliche technische Möglichkeiten getestet. In der damaligen Analyse wurde die Darstellung der Arbeit in einem Blogsystem präferiert. Blogs, auch Weblogs genannt, beschreiben eine Reihe von Softwarelösungen, die nach der Installation Internetnutzern ermöglichen Einträge im Internet zu veröffentlichen.
+
+Bei der Übertragung der bereits geschriebenen Inhalte in das Blogsystem, stellte sich schnell heraus, dass die Blog-Software für die Veröffentlichung in einzelnen Blogposts nicht geeignet war. Zwar ermöglichten zusätzliche Anpassungen an dem System (Plugins) die Veröffentlichung von Inhalten in wissenschaftlichen Formen und Formaten, dennoch stieß das eingesestzte System schnell an seine Grenzen. Bei der Internetrecherche nach Alternativen Lösungswegen wurde das noch junge System Authorea ausgewählt und die Inhalte aus dem bisherigen System dahin übertragen.
+
 Ziel des Experiment ist die Analyse ob und wie weit die offene Erstellung der Doktorarbeit möglich ist. Dieses Vorgehen soll helfen weitere Treiber und Bremser, sowie exemplarisch den Aufwand für offene Verfassen einer wissenschaftlichen Arbeit zu identifizieren.
 
 \section{Herausforderungen der offenen Anfertigung der Dissertation}
 
+Bei der Erstellung der Arbeit unter der Vorraussetzung, dass diese jederzeit über das Internet abrufbar ist, stellten sich unterschiedliche Herausforderungen. Da es sich hierbei um den ersten Versuch eines offenen Promotionsverfahren handelte, konnte nicht auf Erfahrungswerte zurückgegriffen werden.
+
+Damit die Kriterien und Argumente (zum Beispiel Auwand) für oder gegen das offene Publizieren geprüft werden können und gegebnenfalls Handlungsempfehlungen für das offene Schreiben von wissenschaftlichen Arbeiten am Beispiel von Dissertationen erstellt werden können, werden im Folgenden die rechtlichen und technischen Herausforderungen dokumentiert und stukturiert zusammengefasst.
+
+\subsection{Rechtliche Herausforderungen}
+
+Die Promotionsordnung der Fakultät Kulturwissenschaften mit dem Stand vom 02.02.2011 untersagte nicht ausdrücklich das offene Verfassen der Arbeit, erlaubte diese aber auch nicht explizit. Um sicherzustellen, dass die offene Schreibweise nicht gegen die Regeln der Promotionsordnung der Fakultät Kulturwissenschaften der Leuphana Universität verstößt, habe ich Anfang des Jahres 2013 die Promotionskommission kontaktiert und um eine Erlaubnis der zeitgleichen Einsehbarkeit des aktuellen Stands meiner Arbeit gebeten.
+
+Im Dezember 2013 sprach sich die Promotionskommission, nach der rechtlichen Prüfung durch das Justitiariat der Universität, mehrheitlich für eine direkte und unmittelbare Veröffentlichung des Schreibprozesses der Dissertation aus. 
+
+\subsection{Technische Umsetzung und Herausforderungen}
+
 Die Arbeit wurde, bis zur Klärung der Erlaubnis durch die Promotionskommission im Dezember 2013, in einem geschlossenen Google Dokument ohne Freigaben verfasst. Google Docs, ist ein kostenloser, webbasiertes Textverarbeitungssystem der Firma Google. Es ist angelehnt an die gängigen Programme von Microsoft Office oder Open Office, bietet aber einige Einschränkungen besonders für das wissenschaftliche Publizieren.
 
-Nach der schriftlichen Erlaubnis durch die Promotionskommission vom 11. Dezember 2013, wurde in einem ersten Schritt das Google Dokument offen zur Verfügung gestellt beziehungsweise für jeden lesbar freigegeben und aus dem Blog verlinkt. Bei der Übertragung der bereits geschriebenen Inhalte in das Blogsystem, stellte sich schnell heraus, dass die Blog-Software für die Veröffentlichung in einzelnen Blogposts nicht geeignet war. Zwar ermöglichten zusätzliche Plugins die Veröffentlichung von Inhalten in wissenschaftlichen Formen und Formaten, aber an folgenden Aspekten scheiterte der Einsatz der Blogsoftware als Publikationplattform:
+
+An folgenden Aspekten scheiterte der Einsatz der Blogsoftware als Publikationplattform:
 \begin{itemize}
 \item Die Darstellung der einzelenen Kapitel als Blogposts hat sich als sehr aufwendig und insofern Schreibprozess als unpraktikabel herausgestellt
 \item Eine einfache standardisierte Referenzierung von von Literaturverweisen ist nicht möglich
@@ -34,5 +51,14 @@ Diese Verknüpfung der beiden Anwedungen ermöglichte:
 \item ein Monitoring des Fortschritts durch die statistische Aufbereitung und Dartstellung der Entwicklung und Veränderung im Erstellungsprozess der Promotionsarbeit
 \end{itemize}
 
+Für die Erstellung wurde das Textsatzsystem TeX mit der Makrosprache Lamport Tex (LaTeX) verwendet. LaTeX ist ein Art "Expertensystem" für Layout" \cite{suchen}, das besonders für wissenschaftliches Veröffentlichen geeignet ist. Im Gegensatz zu gängigen Textverarbeitungsprogrammen ermöglicht dieses System die Arbeit an Textdateien, die an bestimmten stellen so ausgezeichnet werden, dass sie später als strukturierter Datensatz in jede Mögliche Form übertragen werde kann. Während Textverarbeitungsprogrammen (wie zum Beispiel Microsoft Word) auf dem "W
+hat you see is what you get" (WYSIWYG), zählt man LaTeX zu den sogenannten Markup-­Sprachen, die nicht innerhalb einer bestimmten Umgebung verwendet werden müssen. Diese Art des Textsatzes ist vor allem dann sinnvoll, wenn das Ausgabemedium oder die Verwertung des Inhalts unbekannt oder variabel ist \cite{suchen}.
 
-Bisher kann der Aufwand für die Erstellung einer wissenschaftlichen Arbeit in einer geschlossenen Umgebung auf dem eigenen Rechner als geringer eingeschätzt werden, als sie im Internet unter einene offenen Lizenz für jeden jederzeit einsehbar zu verfassen. Trotz mehrfachen Wechsels der Software, konnte keine einfache Lösung gefunden werden, die der Bedienbarkeit und Flexibilität der geschlossenen wissenschaftlichen Textbearbeitung auf dem Desktop entspricht. Die Anonymisierung und Veröffentlichung der Umfrage-Daten kurz nach Abschluss der Erhebung stellte ebenfalls einen Mehraufwand dar.
+\subsection{Vor- und Nachteile}
+
+
+\section{Ergebnis}
+
+Bisher kann der Aufwand für die Erstellung einer wissenschaftlichen Arbeit in einer geschlossenen Umgebung auf dem eigenen Rechner als geringer eingeschätzt werden, als die Texterstellung im Internet unter einene offenen Lizenz für jeden jederzeit einsehbar. Trotz mehrfachen Wechsels der Software, konnte keine einfache Lösung gefunden werden, die der Bedienbarkeit und Flexibilität der geschlossenen wissenschaftlichen Textbearbeitung auf dem Desktop entspricht. Die Anonymisierung und Veröffentlichung der Umfrage-Daten kurz nach Abschluss der Erhebung stellte ebenfalls einen Mehraufwand dar.
+
+\section{Empfehlungen}
