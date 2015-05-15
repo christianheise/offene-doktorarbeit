@@ -6,4 +6,4 @@ Inhaltsanalyse.tex
 Befragung.tex
 Experiment.tex
 Diskussion.tex
-Zusammenfassung.tex
+Zusammenfassng.tex
