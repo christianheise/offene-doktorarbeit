@@ -1,6 +1,5 @@
 Abstract.tex
 Einleitung.tex
-Grundlagen.tex
 Methode.tex
 Literaturstudie.tex
 Befragung.tex
