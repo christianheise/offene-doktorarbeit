@@ -1,8 +1,8 @@
 Abstract.tex
 Einleitung.tex
 Grundlagen.tex
-Methode.tex
 Herausforderungen.tex
+Methode.tex
 Befragung.tex
 Experiment.tex
 Diskussion.tex
